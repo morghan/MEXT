@@ -48,7 +48,7 @@ Seguidamente detallaré el proceso que cursé para lograr obtener una de las bec
 La guía mencionada en el punto de "Beneficios" de la sección anterior tiene el listado detallado de los documentos necesarios. Solamente quiero enfatizar algunas cuestiones que no me fueron tan claras al inicio:
 En "Placement reference form" el aplicante debe buscar posibles universidades y profesores que puedan admitirlos con su "Field of study and research plan"... sin embargo, esto puede cambiar en el futuro. Lo ideal es que hagan contacto con los profesores de dichas universidades y tengas sus opciones listas de antemano.
 El certificado de estudios se entrega original y a cambio del título universitario original se debe entregar una copia autenticada por un notario. Para todo documento entregado en español se debe adjuntar su traducción en inglés. En mi caso, yo mismo realicé las traducciones.
-Les dejo ejemplo de [mi Field of study and research plan](shorturl.at/dkBGU)
+Les dejo ejemplo de [mi Field of study and research plan](https://docs.google.com/document/d/13YEJAHASdNorPdT_zr961S7nfaG56R9DOXd_A54fJ80/edit?usp=sharing)
 
 Es necesario que tengan claro su propio plan ya que será de suma importancia para los siguientes pasos del filtrado.
 
@@ -61,7 +61,9 @@ Es necesario que tengan claro su propio plan ya que será de suma importancia pa
 En el caso de post-grado, el idioma requerido es el inglés, pero saber japonés ayuda en este paso por 2 razones:
 Se muestra el interés por Japón y su cultura. Evidentemente todos los participantes de este proceso poseen interés por Japón, pero el saber el idioma es una muestra mas concreta de esto, lo cual es una característica buscada en los posibles ganadores de la beca.
 
-~~Ya que solo los participantes con mayores puntajes avanzan, el saber Japonés ayuda a obtener mayor puntaje. En mi caso, la mayoría de participantes solo hicieron el examen de Inglés y no se sometieron al examen de Japonés.~~ Ahora, se requiere un nivel principiante de idioma japonés
+~~Ya que solo los participantes con mayores puntajes avanzan, el saber Japonés ayuda a obtener mayor puntaje. En mi caso, la mayoría de participantes solo hicieron el examen de Inglés y no se sometieron al examen de Japonés.~~ 
+
+Ahora, se requiere un nivel principiante de idioma japonés.
 
 [Existen muestras de exámenes anteriores de inglés y japonés junto con sus respuestas.](https://www.studyinjapan.go.jp/en/planning/scholarship/application/examination/index.html)
 Estos son proporcionados por MEXT para que futuros aplicantes puedan estudiar y conocer el formato.
