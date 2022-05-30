@@ -50,7 +50,7 @@ En "Placement reference form" el aplicante debe buscar posibles universidades y 
 El certificado de estudios se entrega original y a cambio del título universitario original se debe entregar una copia autenticada por un notario. Para todo documento entregado en español se debe adjuntar su traducción en inglés. En mi caso, yo mismo realicé las traducciones.
 Les dejo ejemplo de [mi Field of study and research plan](https://docs.google.com/document/d/13YEJAHASdNorPdT_zr961S7nfaG56R9DOXd_A54fJ80/edit?usp=sharing)
 
-Es necesario que tengan claro su propio plan ya que será de suma importancia para los siguientes pasos del filtrado.
+Es necesario entregar los documentos de manera personal. Asumo que se puede hacer con un apoderado, pero habría que preguntar a la embajada.
 
 **PRO TIP:** Ya que existen al menos 4 documentos que dependen de otras personas o instituciones y este paso tiene fecha límite, recomiendo conseguir dichos documentos lo antes posible y conseguir más de 1 copia original de los mismos.
 
